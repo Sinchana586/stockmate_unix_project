@@ -1,0 +1,7 @@
+ID,Name,Category,Price,Quantity,MinStock,ExpiryDate
+101,Keyboard,Electronics,750,25,5,N/A
+102,Mouse,Electronics,450,12,5,N/A
+103,Notebook,Stationery,60,4,10,N/A
+104,Pen,Stationery,15,100,20,N/A
+105,Milk,Groceries,30,15,10,2026-12-10
+234,CPU,Computer,20000,10,5,2028-03-23
